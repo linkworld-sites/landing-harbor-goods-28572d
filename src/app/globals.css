@@ -12,8 +12,8 @@ html.lenis body {
 }
 
 body {
-  background-color: #faf8f5;
-  color: #1c1a17;
+  background-color: #0a0a0a;
+  color: #e8e6e2;
 }
 
 /* Blog post body — minimal readable defaults (Tailwind preflight strips
